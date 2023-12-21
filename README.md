@@ -5,7 +5,7 @@ This is a README template for Github projects!
 ## About
 ### Description
 <!--In depth description, add more subtitles as necessary-->
-This README template was developed to help developers quickly get a README file up and running.
+This README template was developed to help developers quickly get a README file up and running. Remember to add a license file, and change the year and name, if you are using the [license.txt](license.txt) file in this repository.
 ### Technology
 <!--The tech stack used, with simple descriptions of what each thing does-->
 * Markdown: Formatting this README
