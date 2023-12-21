@@ -3,6 +3,8 @@
 <!--A simple catchy description-->
 This is a README template for Github projects!
 ## About
+<!--An image to show your project-->
+![Image](Image.png)
 ### Description
 <!--In depth description, add more subtitles as necessary-->
 This README template was developed to help developers quickly get a README file up and running. Remember to add a license file, and change the year and name, if you are using the [license.txt](license.txt) file in this repository.
